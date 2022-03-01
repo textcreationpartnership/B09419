@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A despised virgin beautified, or, Virginia benefited. setting forth, though concisely, yet perspicuously, the state of that and the neighbouring plantations, both as they have their blemishes, with the causes thereof, and as they may be cured, with the consequences thereof / by O.Ll. Gent.  Sometimes an inhabitant of Virginia.</title>
+            <author>O.LI., Gent. Sometimes and Inhabitant of Virginia.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09419</idno>
+            <idno type="STC">Wing L2618A</idno>
+            <idno type="STC">ESTC R180038</idno>
+            <idno type="EEBO-CITATION">69648720</idno>
+            <idno type="OCLC">ocm 69648720</idno>
+            <idno type="VID">184964</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09419)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184964)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2882:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A despised virgin beautified, or, Virginia benefited. setting forth, though concisely, yet perspicuously, the state of that and the neighbouring plantations, both as they have their blemishes, with the causes thereof, and as they may be cured, with the consequences thereof / by O.Ll. Gent.  Sometimes an inhabitant of Virginia.</title>
+                  <author>O.LI., Gent. Sometimes and Inhabitant of Virginia.</author>
+               </titleStmt>
+               <extent>[4], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills, for Edward Dod, and are to be sold at the Gun in Ivy Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Trinity College (University of Cambridge). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plantations --  Virginia --  Early works to 1800.</term>
+               <term>Virginia --  History --  Colonial period, ca. 1600-1775 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184964:1"/>
+            <pb facs="tcp:184964:1" rendition="simple:additions"/>
+            <p>A Deſpiſed Virgin Beautified, OR, VIRGINIA Benefited.</p>
+            <p>Setting forth, though conciſely, yet perſpicuouſly, the State of that and the Neighbouring Plantations, both as they have their Blemiſhes, with the Cauſes thereof, and as they may be cured, with the Conſequents thereof.</p>
+            <q>
+               <p>I am black but comely, &amp;c.</p> 
+               <bibl>Cant. 1. 5.</bibl>
+            </q>
+            <p>By <hi>O. Ll.</hi> Gent. ſometimes an Inhabitant of <hi>Virginia.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills,</hi> for <hi>Edward Dod,</hi> and are to be ſold at the <hi>Gun</hi> in <hi>Ivy Lane,</hi> 1653.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:184964:2"/>
+            <pb facs="tcp:184964:2"/>
+            <head>To the Chriſtian, and to the Judicious Rea<g ref="char:EOLhyphen"/>der, that is wel-affected to the Common ſalvati on purchaſed by Chriſt, or to the Common good of this Republique.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">R</seg>Eader, which of the two ſoever you are, I have a double word to offer to your conſidera<g ref="char:EOLhyphen"/>tion; First that the undertaking of this work to expreſs this accomodation for the benefit of the</hi> American <hi>plantations, in both Spirituals and Temporals, is not a thing that I under<g ref="char:EOLhyphen"/>took in my own strength, or for any baſe ends of my own: But (as the Lord can bear me witneſs that I ly not) upon the hearing the minister in publique the laſt Lords day stir up every one to indeavor the exaltation of Chriſt in his proper place, internally and externally, I conceiv'd it a duty incumbent upon me to offer my two mites to the Lords treaſury, if it might be acceptable to him, having nothing elſe wherewith to honour him at preſent; or if it might be profitable for my longed-for friends in</hi> Virginia, <hi>who have been often, in my weak meaſure and manner (though an unworthy wretch) preſented at the Throne of Grace by me,</hi> That God of his infinite riches and glory by Chriſt would ſup<g ref="char:EOLhyphen"/>ply all their needs; <hi>and being by ſo many years experience ac<g ref="char:EOLhyphen"/>quainted what was that neceſſary thing that conduceth to their eternal well-being and yet there wanting, I have here preſented you (as the Lord inabled me) with what I humbly conceive (ever ſubmitting to better Judgements) may be the best expe<g ref="char:EOLhyphen"/>dient to accompliſh the happineſs of that place. Secondly, I muſt anſwer the unſatisfyed Reader, who knew my former con<g ref="char:EOLhyphen"/>verſation, both there, and here; and how unſuitable it hath been to what I here preſent; That though he might ſay,</hi> Phyſici<g ref="char:EOLhyphen"/>an heal thy ſelf, <hi>or,</hi> Hypocrite firſt pull the beam out of thine own eye, <hi>&amp;c. I confeſs what was my ſin; which as it hath been my ſhame, ſo it is (through grace) and will be the ſubject of my ſorrow. that I have walked ſo diſorderly; But I hope (through great grace) by Chriſt Ieſus, I have and ſhall obtain mercy, and
+<pb facs="tcp:184964:3"/>
+enjoy favor with the Father, and fellowſhip in the Spirit with the Son, and Saints; and that henceforth he will ſhew me (for my ſelf) the comming in and the going out, and faſhion of his Temple; that henceforth he will ſanctifie me, and preſerve me blameleſs to the comming of his Son, to the praiſe of the glory of his grace; and therefore I beſeech you my friends, both of</hi> Virginia, <hi>and of my Native Countrey, who have ſeen my out<g ref="char:EOLhyphen"/>goings, not to be grieved in ſpirit at my undertaking of this.</hi>
+            </p>
+            <p>
+               <hi>For as I conceive my ſelf bound by duty to undertake this task, ſo I conceived there was a great deal of equity in it, both toward the Lord, and towards you of</hi> Virginia, <hi>and alſo you of my Native Countrey; that as I have been notoriouſly e<g ref="char:EOLhyphen"/>vil to the diſhonor of God, and the diſcredit of the Goſpel before you, ſo I might be notably inſtrumental (if the Lord pleaſe) to promote his praiſes in</hi> Virginia <hi>in the firſt place; and afterward (it lyeth upon my thoughts, and I do believe it will be accom<g ref="char:EOLhyphen"/>pliſhed) that I ſhall do the like in my own Native Countrey; ſo that both places ſhall ſee the glory of his free grace to me, and learn to love and fear, believe and cloſe with the Lord of Love and Life. I beſeech you then without prejudice reeeive theſe weak exhibitions of my duty and love to my God, my Countrey, and my Friends, and pardon what is amiſs, and pray for him that would fain be found walking in the truth, whilest he is,</hi>
+            </p>
+            <closer>
+               <dateline>From my Chamber at the <hi>Flying-Post</hi> in <hi>White Fryers, London,</hi> 
+                  <date>this 6<hi rend="sup">th</hi>. of <hi>October,</hi> 1653.</date>
+               </dateline>
+               <signed>O. Ll.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:184964:3"/>
+            <head>A Deſpiſed VIRGIN beautified, OR VIRGINIA benefited.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S a skilfull Architector that would erect a lofty edifice, and build beautifully for the benefit of the Owner, digs deeply to lay the founda<g ref="char:EOLhyphen"/>tion of his Structure; or as a wiſe Phyſician will not preſcribe phyſick to his Patient, till he have ſeen ſure ſymptoms to know the diſeaſe by; the firſt, left his building fall, and his labour and charge be loſt; the ſecond, left his Patient fail, and his reputation be ble<g ref="char:EOLhyphen"/>miſhed.</p>
+            <p>So in this buſineſſe that lierh ſo ſtrongly upon my ſpirit, to be doing ſervice for the Publick, that thereby my God may be ho<g ref="char:EOLhyphen"/>noured, the Goſpel propagated, and the Kingdome of the Lords Chriſt enlarged; I would willingly take the wiſeſt, the ſafeſt, the profitableſt, and honourableſt (as to the Publick) way the Lord ſhall lead me to do, in doing this work; and therefore as conciſely as I can, I ſhall endeavour to repre<g ref="char:EOLhyphen"/>ſent my experiences, what I have (though of weakeſt judgment) obſerved to be the diſeaſe of that diſtreſſed member of this Com<g ref="char:EOLhyphen"/>mon-wealth, both as to Church, &amp; Sate.</p>
+            <p>And that what are and have been the thoughts of my heart
+<pb n="2" facs="tcp:184964:4"/>
+(I hope ſuggeſted by the Spirit of God, for the good of that Countrey) for neer theſe fourteen years as concerning what ex<g ref="char:EOLhyphen"/>pedient may be fourd to remedy the diſtreſſe of the diſconſolate Virgin Countrey <hi>Virginia,</hi> and render her ſound and in perfect health; therein ſhewing the beauty that may be expected to be ſeen in her, when ſhe is prepared for, and preſented a ſpotleſſe Spouſe to the Lord Jeſus her husband, and alſo the benefit of having ſuch a member annexed to this Common-wealth.</p>
+            <p>In the diſcovery of her diſeaſe, give me leave to remind you of her <hi>Primo-genitors,</hi> or firſt Maſters of <hi>Europoean</hi> ex<g ref="char:EOLhyphen"/>tract, and what have been the ſucceſſours for the generality; thereby we ſhall get a little light into the originals of her diſeaſe, and be the better able to give judgement on her, and ſo to pre<g ref="char:EOLhyphen"/>ſcribe the remedy as the Lord ſhall in able a poor creature.</p>
+            <p>
+               <hi>Virginia</hi> ſo ſtiled, and taking her name from the late Virgin Queen, (Queen <hi>Elizabeth</hi> of happy memcry, as a glorious inſtrument in the hand of God, for doing the work of the Lord in her time) which title was given her by the firſt Adventurers (as conſidered to landing, and living there) in Queen <hi>Elizabeths</hi> days. But the Emergencies of the publick affairs of thoſe times, took up the ſpirits of men from thinking much of that Colony, during the reign of the ſaid Queen, and the buſineſſe lay dor<g ref="char:EOLhyphen"/>mant till about the years 1607 or 1608. when divers Noble<g ref="char:EOLhyphen"/>men, Gentlemen and Citizens, imbodied themſelves in this Ci<g ref="char:EOLhyphen"/>ty of <hi>London,</hi> and made a <hi>Virginia</hi> Company, under the ſpecious pretences of propagating the Goſpell, and preparing a way to the ſetting up the Kingdom of Chriſt Jeſus in thoſe <hi>American</hi> parts, and I believe many godly men really meant ſo; and much trea<g ref="char:EOLhyphen"/>ſure was advanced by the Adventurers, and by publick authori<g ref="char:EOLhyphen"/>ty; which buſineſſe being then managed (as it is to be feared, becauſe now heavily felt) by ſelf-ended men, was carried on, as diſorderly, ſo unſucceſſefully.</p>
+            <p>Diſorderly, in that they began not to ſend over men ſound in the faith, pious in their lives, and ſincere in their ends; But the major part of them, poor ſpirited, ſelf-ended, and broken fortu<g ref="char:EOLhyphen"/>ned men to manage the work: and with them as ſubſervient to their ſelf-ends; they ſent (the greateſt part of ſuch as were ſent)
+<pb n="3" facs="tcp:184964:4"/>
+under their command, to do the work by their derection; why? they were ſuch (in general) as were diſſolute, wild, debauched, idle, and nonfortuned men and women; and many of theſe being ra<g ref="char:EOLhyphen"/>ked out of the ſinks of the Commonwealth, which being drawn out of ſeveral priſons, were immediatly married to ſuch as they never ſaw before, and ſo ſent to plant the Countrey.</p>
+            <p>Year after year this practice continued, and multitudes through diſorder and want of accommodations died; till at laſt the com<g ref="char:EOLhyphen"/>pany was diſſolved, and the Countrey infranchiſed, and then the reigns being laid on the necks of theſe new libertines they became more licentious.</p>
+            <p>Here by the way I crave all ſober minded gentlemen, and Planters of <hi>Virginia,</hi> to clear me in this, that I tax not all; for I know, and did know many more, and have heard of more than I knew, of gallant gentlemen of quality, and others in that Countrey who have been almoſt from the beginning there, that I have obſerved, and heard of, to be good members of that Com<g ref="char:EOLhyphen"/>mon-wealth, and to have lived ſoberly and honeſtly, free from all open vice.</p>
+            <p>And ſuch as were the people, ſuch were the Prieſts; for the loweſt of the people here that would conſecrate himſelf might be made a Prieſt, and then over there will they go when <hi>England</hi> ſpueth them out for their incivilities; and truely I fear it is too true that I hear thence, that the moſt of them are ſo ſtill.</p>
+            <p>Now ſuch Prieſts and ſuch people as before mentioned, ſo principled, and ſo ended, ſurely could lay but a ſorry foundati<g ref="char:EOLhyphen"/>on, for the Goſpels Propagation, in thoſe Plantations; the major part being ſuch, as thoſe few that were good, could do no good with, either for Church or State.</p>
+            <p>And truely I find that there is too much of that ſtock remain<g ref="char:EOLhyphen"/>ing there ſtill; for now my own experiences of ſixteen or ſeventeen years ſtanding, conferred with the preſent times, holds poor <hi>Viginia</hi> forth in my apprehenſion as a diſconſolate Virgin, ſubject to the rape of the ſtrongeſt raviſher of her beauty and bravery. For ſince the late Court-faction came in, and poor Penſioners came over to be Governours, and other chief Officers, to make up their broken fortunes, ſhe hath been much macerated, her
+<pb n="4" facs="tcp:184964:5"/>
+beauty marred, and the antient Common-wealths men, who had begun to ſet forth the beauty and vertue of that Virgin, were not only diſheartned, but many of them deſtroyed in their eſtates, for their fidelity to the grand intereſt of the well-being of the Plantation. Witneſſe the difference begun by thoſe of the Court-Faction, as Sir <hi>John Harvy</hi> and Secretary <hi>Kemp,</hi> (both crea<g ref="char:EOLhyphen"/>tures of the Lord <hi>Finch,</hi> and Sir <hi>Francis Windebank)</hi> between them, and the honeſt Gentlemen, and antient Planters of the Countrey, who had ſaved the Countrey with the hazard of their lives and fortunes; this diviſion deſcended to the next Governor Sir <hi>Francis Wiat,</hi> who removing Sir <hi>John Harvy,</hi> was himſelf afterwards diſlocated by the endeavours of an Anti-party, who brought in Sir <hi>William Berkley,</hi> who, what he was, and is, is too manifeſt by wofull experience of his twice revolting from this Common-wealth, and in them injuring the beſt affected to this Common-weolth,</p>
+            <p>Yea, and the hand of the Prieſts is in this alſo.</p>
+            <p>But now it will be ſuppoſed that this diſeaſe is cured by the conquering of the Anti-party; I conceive it not cured, neither will it be, while there is either root or branch, in power, in or near that Colony (as it is too near) for I conceive, whilſt that <hi>Mary-Land</hi> in the North, and <hi>Carolina</hi> in the South, remain in the poſſeſſion of them it doth, though the Court-Faction be now in the embers, thence will be brought upon any convenient opportunity, bellows of ſedition ſufficient to ſet all our Plantati<g ref="char:EOLhyphen"/>ons on fire, they being both of the ſame Stock, <hi>Simeon</hi> and <hi>Levi</hi> like, brethren in iniquity.</p>
+            <p>There is yet another inconvenience, which concurring with the former, make up another malady to make our Virgin the more miſerable; and that is the propinquity of the <hi>Dutch,</hi> and <hi>Swediſh</hi> Plantations, who much blemiſh the beauties of both the elder and younger daughters of <hi>Englands</hi> Common-wealth, and prejudice their eſtate, by receiving and detaining our fugi<g ref="char:EOLhyphen"/>tives, both debtors and ſervants, and fiding with Indians.</p>
+            <p>Now as without ſhe is damnified and indangered, ſo within ſhe ſuffers too much detriment by the adherents of the former faction in the Common-wealth; and ſo likewiſe by the iguorance,
+<pb n="5" facs="tcp:184964:5"/>
+and pride of the Prieſts, the Countrey ſuffereth much more in the loſſe of their ſpiritual advantages, as ſhall appear by and by.</p>
+            <p>But which is more, the main (pretended) end of planting the Countrey, is altogether omitted, if not prejudiced; as I ſhall ſhew anon,</p>
+            <p>But I love not to rake in the dung nor to caſt dirt about, but would willingly be (if poſſible, and that the Lord were ſo plea<g ref="char:EOLhyphen"/>ſed) inſtrumental to do all the good I could to the Colony; for next the place of my native ſoyl, I love it above any Countrey whereſoever I have travelled; and therefore though I be the worſt of ſinners, yet I bleſſe God I abound in love to that Coun<g ref="char:EOLhyphen"/>trey, and do wiſh from my very heart, (if I can diſcern it) to indeavour by all means, and to improve all intereſts to advantage the place; and therefore let me crave pardon if I mentioned any thing that is offenſive to any; I cannot hold, love conſtraineth me, I muſt diſcover what I know amiſſe; it is the work of the Lord, and I would not be found negligent in it.</p>
+            <p>The ſucceſſeleſneſſe of the Plantation is (to my ſorrow) ſeen by comparing her deformity and barrenneſſe (as to ſpirituals) with her younger Siſters beauty and fruitfulneſſe; who though placed in a far more barren ſoyl, (in relation to terreſtialls) is by ingenuity and induſtry made far more fruitful and profitable to her inhabitants, but which is better, ſhe abounds in the work of the Lord, and in the injoyment of the manifeſtation of the abundant love of God, not onely to the Engliſh themſelves, but the glory of his grace is much ſeen in demoliſhing much of the Kingdom of Satan, and exalting the Scepter of Chriſt among the Natives,</p>
+            <p>A thing which the primary Planters pretended, but by them of new <hi>England</hi> intended, and with good ſucceſſe (bleſſed be God) happily effected in part, which will more and more increaſe to the perfect day, I believe and hope.</p>
+            <p>This being the root of her diſeaſe, which makes poor <hi>Virginia</hi> deformed, and ſo conſequently deſpicable, with mourning of Spirit I bemoan her, and wiſh all that know her with me to be<g ref="char:EOLhyphen"/>wail her, and to ſet to their helping hands and hearts, (and to implore ſome means from the great and good God of heaven, who
+<pb n="6" facs="tcp:184964:6"/>
+is both able and willing to help) for her recovery and eſtabliſh<g ref="char:EOLhyphen"/>ment in her perfections, which is I conceive, firſt to ſet up the kingdom of God there, and then all other things: ſhall be mini<g ref="char:EOLhyphen"/>ſtred.</p>
+            <p>Firſt, therefore I humbly conceive, that if the Lord would put it upon the hearts of his people here in old <hi>England,</hi> and in new <hi>England</hi> alſo, to intercede and plead with the Lord for her, that he would be pleaſed to ſet up his name there, and be glorified in his appearances for his people there; for I verily believe that the Lord hath a precious people there, that have not, nor will bow the knee to <hi>Baal;</hi> though now they be under the clouds, and in the clefts of the rocks; as I ſhall ſhew you by and by.</p>
+            <p>Secondly, I would humbly deſire that the people of God here, con<g ref="char:EOLhyphen"/>ferring with their friends of new <hi>England,</hi> would join together, and make it their joynt deſire to the Supreme Authority, that they would unite the Engliſh Plantations which are on the continent, from Cape <hi>Florida</hi> in the South, to Cape Saint <hi>George</hi> in the North, <hi>viz. Carolina, Virginia, Mary-Land, Albion, New England, New Plimouth,</hi> and the Plantations to the eaſtward of <hi>Merimack</hi> river, and <hi>Nova Scotia,</hi> into one Pattent with <hi>New England;</hi> it would be of great conſequence conducing to the common good of all thoſe Plantations, and a great profit to this Common wealth of <hi>England.</hi>
+            </p>
+            <p>But which is moſt of all, it would much inlarge the kingdom of Chriſt, and propagate the Goſpel to the Natves all along the Continent, as immediately I ſhall (through grace, and your pa<g ref="char:EOLhyphen"/>tience) ſhew.</p>
+            <p>But before I hold forth the benefit that may come by this uni<g ref="char:EOLhyphen"/>on, give me leave to anſwer the coverous Patentee, or Planter of each Pattent.</p>
+            <p>I ſay <hi>Corolina, Virginia, Mary Land</hi> and <hi>Nova Sootia,</hi> are planted for the major part with ſuch kind of Planters as former<g ref="char:EOLhyphen"/>ly I ſpoke of; who onely (eſpecially in the Southern-Plantations) eat the bread of idleneſſe, <hi>viz.</hi> by following ſuch commodities as come with the eaſieſt labour; and not improving all advanta<g ref="char:EOLhyphen"/>ges that might be taken for the advancing of their own intereſt, in gaining what fruits the ground with a little more pains would abundantly afford them.</p>
+            <pb n="7" facs="tcp:184964:6"/>
+            <p>Now if <hi>New England</hi> men were among them, the example of their induſtry, with the ſight of the advantages gotten thereby, would excite al ingenious men (as there is abundance) to indeavor to attain the gaining of the like accommodations for them<g ref="char:EOLhyphen"/>ſelves, which would in the end much inrich the Common-wealth.</p>
+            <p>
+               <hi>Object.</hi> Sir, ſaith the covetous <hi>Patentee</hi> or Planter of <hi>Caro<g ref="char:EOLhyphen"/>lina,</hi> or <hi>Mary-Land,</hi> and <hi>Albion,</hi> we are peculiar Patents belonging to Noblemen in <hi>England,</hi> who have purchaſed their Patents at a dear rate, and expended much money by them<g ref="char:EOLhyphen"/>ſelves and friends to plant theſe Plantations, and ſhall we admit of Strangers, eſpecially of ſuch as are of ſo different a judgement from us? there is neither Piety nor equity in this.</p>
+            <p>
+               <hi>Anſw.</hi> Truth it is, their Patents were granted from the grand Governours of this Common wealth for the time then being; whoſe grant I conceive was good, as to the enjoyment of their tenures to the end pretended; which appeareth by their grants, to be to the glory of God and the good of this Common-wealth. But now being the Common-wealth is under the power of an other adminiſtration, (who I hope truly fear God) which power finding the pretended ends to be falſified, and inſtead of ſetting up the Kingdom of Chriſt in their Plantations, the domi<g ref="char:EOLhyphen"/>nion of Antichriſt is exalted under the protection of thoſe Noble<g ref="char:EOLhyphen"/>men and their grants, therefore I conceive it to be both juſt and pi<g ref="char:EOLhyphen"/>ous, and for the profit of this Common wealth, to call in thoſe patents &amp; make them nul, as to the dominion and legiſlative pow<g ref="char:EOLhyphen"/>er given to thoſe Lords; yet in equity, for the reward of the Adventurers ſervice in gaining ſuch Countreys, I conceive it is as juſt they ſhould enjoy the chief rents for what they let out to Tenants; and what they keep in their own hands and improve, to have it free, reſerving the Common-wealth's intereſt of pro<g ref="char:EOLhyphen"/>fits as at firſt agreed upon.</p>
+            <p>And as for inconvenience of their being of other judgements as I conceive the Laws of Chriſt inforce none to conform to one anothers judgement (by any coercive power in mans hand) but as it pleaſeth the Lord by his own Spirit to act in ſuch as belong unto him; or permit the ſpirit of Errour to perſwade others to that which is evill; and therefore I conceive their cohabitation
+<pb n="8" facs="tcp:184964:7"/>
+not to be any wayes diſadvantagious to the Common-wealth (for ſo I hold the Plantations to be now in the hands of the Common-wealth) and if the Liberty of the Law be equally alike to all, and the benefit of the Goſpell offered to all, to me it appeareth in my ſlender judgement equitable and juſt, that freedom be given to all that are members of this Common-wealth equally to cohabite in any of the Plantations, they con<g ref="char:EOLhyphen"/>forming to the power of the civill Magiſtrate,</p>
+            <p>Now as for new <hi>Albion,</hi> Sir <hi>Edmund Ployden</hi> (the pretended Earl of <hi>Albion)</hi> took his Patent from the Lord <hi>Strafford</hi> in <hi>Ireland,</hi> who made it an Iriſh Province, which he ſhould have planted within three years; and yet for ſome 14, or 15. years he hath done nothing as to purpoſe of Planting the Countrey; and therefore I conceive his Patent void; and liberty might well be given to any, either of old or new <hi>England,</hi> to come into that part of the Continent and plant it.</p>
+            <p>
+               <hi>Object.</hi> But Sir ſaith the <hi>Virginian,</hi> we and our predeceſſors have born the heat of the day, and have planted much of the Colony, and cleared much land; and now would you have the New <hi>England</hi> men to enjoy the fruits of our labours? ſurely this were a piece of injuſtice and uncharitableneſſe.</p>
+            <p>
+               <hi>Anſw.</hi> Gentlemen and Countrey-men, If I prove it both juſtice and charity, yea, and a benefit to <hi>Virginia,</hi> (which is a ſubject I chiefly aim at in this diſcourſe, next to the ſalvation (yee ſhall I ſay in order to the ſalvation) of your ſouls, and the glory of our Saviour) to admit the people of New <hi>England</hi> to dwell with you, I hope it will be offenſive to never a godly or ra<g ref="char:EOLhyphen"/>tional man in <hi>Virginia,</hi> that loveth God, the Countrey, or his own, and relations ſouls.</p>
+            <p>Therefore now give me leave to ſpeak freely, yea and through grace I will ſpeak freely; for I ſpeak for God, for the Common-wealth, and for your good I hope.</p>
+            <p>Is it not juſtice for this Common-wealth to call in your Pa<g ref="char:EOLhyphen"/>tent, who have no wayes performed the truſt repoſed in you, for the advancing of the glory of God in your Countrey, but on the contrary have (by power and authority) acted againſt the Lord and his intereſt? You'l ſay this is a heavy charge! I muſt prove it, and that I do thus.</p>
+            <p>
+               <pb n="9" facs="tcp:184964:7"/>
+When there was a godly well-affected party among you, ſome 12. or 13. years ſince, who being ſenſible of the ſad condition their own, their childrens, their ſervants, and their neighbours ſouls were in, ſitting in the blackneſſe of darkneſs, under a blind, dumb, debauch'd miniſtery, (ſuch as the generality of your Mini<g ref="char:EOLhyphen"/>ſters in my time) were when I ſay they ſent to the Churches of New <hi>England,</hi> that they ſhould come over &amp; help them, who as brethren condeſcending to a compliance with your neceſſity, and the Call of God, theſe godly men ſent you over three Miniſters of the Goſpel, whoſe admiſſion and reception was with ſuch a ſweet<g ref="char:EOLhyphen"/>neſſe of affection, that the people from far parts of the Countrey came to hear them with joy and cheerfulneſſe while they ſtaied; ſo that there was great hopes, that there might have bin a glorious work ſuddenly accompliſh'd, and the main deſir'd end for which your Patent was granted, might be attained; now when the work was in this forwardneſſe, Satan ſtirred up the hearts of ſome evil men, to expulſe them out of your Countrey, to the diſcomfort of the poor ſouls that were inſtrumental to bring them in and to the pulling of the veil of ignorance over the eyes of your ſouls (if any ye have) and drawing down a cloud of dark<g ref="char:EOLhyphen"/>neſſe, and cauſing it's expanſion all over your Country, which ſtill continueth (wo is me therfore) and to the pulling down, (I am perſwaded in my ſpirit) of that great judgement upon the land, which was wrapt up in the livs of many hundreds of perſons that were ſlain ſuddenly after their departure by the incurſions of the <hi>Indians April</hi> 17. 1644. which cut off 1500. men, women and children in one day, as I was credibly informed.</p>
+            <p>Seeing therefore ye have been ſo unfaithfull to the Common-wealth, as not to preſerve the people in peace and ſafety, much leſſe in godlineſſe and honeſty; I am confident to affirm, it is but juſt to take away the Vineyard from you, and let it out to other husbandmen, that will yield the fruits thereof.</p>
+            <p>And as it is Juſtice, ſo it is charity to force in the light of the Goſ<g ref="char:EOLhyphen"/>pel (maugre all evil mens indiſpoſitions) that may expel that thick cloud of darkneſſe that is over you, that ſo the people that ſit in darkneſſe may ſee the ſalvation of God. For what a miſerable
+<pb n="10" facs="tcp:184964:8"/>
+thing is it, that ſo many thouſand ſouls ſhould be in your Coun<g ref="char:EOLhyphen"/>trey, and I cannot hear of any godly, ſincere, ſound, and faithfull miniſter of the Goſpel among you, but one; know yee not that text, My people periſh for lack of knowledge; and again, Where there is no viſion, the people decay; and do not your ſouls in ſe<g ref="char:EOLhyphen"/>cret mourningly ſay, this is truth that I ſay from the word of God? Therefore theſe things conſidered, is it not charity to force open all the doors and windows that may be opened, to let in the light of the Goſpel among you, even you my Country-men of <hi>England?</hi> For I will ſay nothing of the <hi>Indians</hi> among you in this place, but defer that till anon.</p>
+            <p>Yea and it is a benefit to your Country that the New <hi>England-</hi>men ſhould be admitted to live among you, as for your ſouls, ſo for the benefit of the education of your youth; yea, and for fur<g ref="char:EOLhyphen"/>niſhing the Countrie, with pious Miniſters, painful School<g ref="char:EOLhyphen"/>maſters, and faithful Magiſtrates, and a holy people whoſe con<g ref="char:EOLhyphen"/>verſation may be ſuch as may adorn the Goſpel, glorifie God be<g ref="char:EOLhyphen"/>fore your eyes, to your converſion, or at leſt to your conviction.</p>
+            <p>
+               <hi>Object.</hi> But ſay you, all this is truth, but now we have cleared the land, and won it with our bloods from the enemies, ſhall they now come and enjoy it? this is hard.</p>
+            <p>
+               <hi>Anſw.</hi> Why Gentlemen? beſides what hath been ſpoken before for the clearing of the juſtice of permitting the people of new <hi>England</hi> to come among you; Is it not one of your ownlaws? that if any man take up land, and improve it not within three years; and after he have improved it, if he ſhall deſert it for three years, it is free for any man to take it up; then from this law I ſhall make it appear, that it is not onelie juſt, but profita<g ref="char:EOLhyphen"/>ble for you, that new <hi>England</hi> men ſhould come and abide with you.</p>
+            <p>Firſt, for the juſtice of the cauſe, how much ground is there untaken up by you between your lands bounded out, where ma<g ref="char:EOLhyphen"/>ny ſingle families might plant and dwell among you in ſingle fa<g ref="char:EOLhyphen"/>milies; and how much land is there in the bottom of the Bay in <hi>Pottomock, Pottucſon, Rhappahanack</hi> rivers, and in <hi>Carolina,</hi> that is untaken up, where after the manner of their own Countrie, they might build in Towns, and dwell together, where they
+<pb n="11" facs="tcp:184964:8"/>
+might ſet up the ordinances, advance juſtice in its due and eaſie adminiſtration, with more advantage to the Common-wealth than now you have it, who come from <hi>Accomack, Pottomock,</hi> and the head of <hi>James</hi> River, for Juſtice to <hi>James-</hi>Town, moſt of theſe places being above an hundred miles from <hi>Iames-</hi>Town?</p>
+            <p>Yea in <hi>James</hi> River and other places, how much old ground is there which you have deſerted, where convenient ſeats for tra<g ref="char:EOLhyphen"/>ding might be built to the great benefit of the Countrie, and the land improved, in ſowing fl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x (an eſpecial commoditie) and o<g ref="char:EOLhyphen"/>ther improvements, which you let run wild again after cleared?</p>
+            <p>How great a commoditie would they bring into your Coun<g ref="char:EOLhyphen"/>trie by bringing in all manner of trading freely to you without being beholding to the <hi>London</hi> Merchants, as they do for them<g ref="char:EOLhyphen"/>ſelves, there being ſufficient materials with you for building all ſorts of veſſels as they do in new <hi>England?</hi>
+            </p>
+            <p>Nay what an advantage will it be to the poor Natives, whoſe lands you injoy, if by theſe means they might have an introduc<g ref="char:EOLhyphen"/>tion into the Kingdom of heaven, in interchange of their ſublu<g ref="char:EOLhyphen"/>narie accommodation? A thing I verily believe, (upon good grounds) the poor ſouls do eſpecially deſire, in order to be freed from the ſervice of Satan, the crueltie of which ſervitude or ſla<g ref="char:EOLhyphen"/>verie they grievouſlie groan under.</p>
+            <p>Give me leave to give you my reaſon of this my beliefe, in the year 1642. (if my memorie fail me not) Captain <hi>John West,</hi> Maſter <hi>Stephen Gill</hi> (I know not their titles now, for ſo they were then called) and their wives, with ſome other neigh<g ref="char:EOLhyphen"/>bours and Servants went up to <hi>Pamunk<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> to recreat themſelves, and to <hi>Voſſite Oppachancanough</hi> the old Emperour of the Indi<g ref="char:EOLhyphen"/>ans in the Bay, who though a Barbarian, ſhewed them no little kindneſſe, aſſigning them part of his <hi>Wigwam</hi> (or houſe) for their lodgings, and cauſing his Indians to bring them in dayly freſh Veniſon and other accommodations for their proviſions, Prince-like; where they remained ſeveral daies, and which is the won<g ref="char:EOLhyphen"/>der for which I relate this ſtorie as I received it from Mr. <hi>Gill</hi> his own mouth) every morning &amp; evning the Engliſh at an appointed hour went to prayers among themſelves, at which time conſtantly
+<pb n="12" facs="tcp:184964:9"/>
+moſt terrible tempeſts of wind, and alſo a great noiſe, as if it had been the ratling of chains were running round about the houſe, to the exceeding great terrour of the Natives, inſomuch that they would run among the Engliſh when they were at their praiers for ſhelter; and this continued conſtantly for manie daies while they were at praier, in that time onelie and no more, which wrought ſo effectuallie upon the old Emperour, that he cried cut to the Engliſh when the fear was over, Will none help us to know your and ſerve your God? with manie other words to the like purpoſe he often uſed to them; and if anie daie they did not keep the preciſe time of praier according to his obſerva<g ref="char:EOLhyphen"/>tion, he would ſend to the Engliſh to go to worſhip their God. This report I had from Maſter <hi>Gill,</hi> and I believe Captain <hi>West,</hi> and the reſt of the companie will affirm the ſame.</p>
+            <p>Oh then is there not great hope that a happie work might be wrought for God and for thoſe poor ſouls, if the new <hi>England</hi> men might come among you in <hi>Virginia,</hi> who have been ſo happilie ſucceſſefull in the converſion of ſo manie Indians in their own Countrie, that they may do the like for the Natives in your parts?</p>
+            <p>
+               <hi>Object.</hi> You talk of remoteneſſe of place in the Colonie of <hi>Virginia</hi> for the doing and injoying juſtice, and if this ſhould be that all the Patents ſhould be joined in one, how ſhould we come to the injoyment of the benefit of the Law? the diſtance being ſo great from the South of <hi>Carolina,</hi> to the Northeaſt at Cape Saint <hi>George.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Gentlemen, you know the ſituation of the coaſt all along from North to South, how full of harbours it is all the coaſt along, and how convenientlie men may paſſe from harbor to harbor; And there is a convenient place about <hi>Hudſons</hi> Ri<g ref="char:EOLhyphen"/>ter, or <hi>De Laware-Bay,</hi> whereat a convenient Site might be pre<g ref="char:EOLhyphen"/>ſentlie plated, where a ſeat of reſidence for the principle Magi<g ref="char:EOLhyphen"/>ſtrate might abide, and thither the Patriots of each Province or their deputies might meet once everie year or leſſe, if no occaſion require, to conſult, conſider of, and enact wholeſom laws for the well being of the whole.</p>
+            <p>But if men will not go by ſea, it is eaſie to go in a ſmall time by
+<pb n="13" facs="tcp:184964:9"/>
+land, there being horſes enough in the Countrie from the utmoſt bounds of the South, or North latitude.</p>
+            <p>And for matters of <hi>Meum</hi> and <hi>Tuum,</hi> or for the treſpaſſes they might be determined in each Province by depuries as before. And I verily believ that if you would once admit of the Regiment of the Prince of Peace over you, and his people cohabite with you, there would be leſſe of that litigious ſpirit, that now is to be ſeen among you, and a ſpirit of peace, and love, and joy in the Holy Ghoſt, would be manifeſted to you, and magnifyed by you.</p>
+            <p>
+               <hi>Object.</hi> But if all this were granted, what could we do for this union, ſeeing that ſo near the place you hold forth to be the center of the Countrie, and a place meet for the people from all parts to meet for the making of laws, is a place ſo near the <hi>Dutch</hi> Plantation, and the <hi>Swedes,</hi> that they would be goads in our ſides, and thorns in our eies.</p>
+            <p>
+               <hi>Anſw.</hi> As for the <hi>Dutch</hi> Plantation, if the war continue, we have an opportunity to make it our own, by the joint-forces of theſe Plantations by a courſe of war, and if peace ſuddenly ſucceed theſe indeavours, their ſhips will be as ours, their people as ours in all Plantations and places; we ſhall be united in a firm bond of amity, and ſo theirs indeed will be ours in truth, in the general accommodation, though their particular intereſt may be preſerved unto them.</p>
+            <p>And as for the <hi>Swedes</hi> Plantation, it is a thing of ſo ſmall a valew, and they being friends with our Common-wealth it is an eaſie matter to find an accommodation ſo as that they may be ſa<g ref="char:EOLhyphen"/>tiſfied, and this Common-wealth ſerved with their intereſt.</p>
+            <p>
+               <hi>Object.</hi> What ſay you to <hi>Nova Scotia</hi> and the Plantations to the eaſtward of <hi>Merimach</hi> that belong to the <hi>French,</hi> that being ſold to the <hi>French</hi> by the <hi>Kirks</hi> (I believe it is not un<g ref="char:EOLhyphen"/>known upon what ſcore, after the Engliſh, and Scotch Nations had ſo dearly purchaſed it) how ſhall they be joined with this Patent?</p>
+            <p>
+               <hi>Anſw.</hi> Firſt for the <hi>French,</hi> they deſire and apply themſelves onely to the trade of the River of <hi>Canada,</hi> and not one ſhip in an age ſcarſe commeth to the Southward of Cape Saint <hi>George</hi> to trade; but admit it were their trade there; is it not an eaſie
+<pb n="14" facs="tcp:184964:10"/>
+hing for us, to eject them out of that which they cheated us of by the late Queens means? now in ſuch a juncture of time as that we are going to differ nationally upon another ſcore, we having both men and ſhipping of our own enough in new <hi>Eng<g ref="char:EOLhyphen"/>land</hi> which would quickly caſt them out upon a nationall ac<g ref="char:EOLhyphen"/>count or quarrel; By which means the Patent might be inlarged, and the Goſpel further propagated; and a means in time (through the bleſſing and providence of God) found to tranſport the goods of the <hi>Eaſt India</hi> trade, from <hi>Japan,</hi> and from the Iſles of <hi>Mare Delzur</hi> to ſome part about <hi>Corſina,</hi> or ſome other part, and ſo overland, to the head of the River of <hi>Canada,</hi> or ſome of the great Rivers in <hi>Virginia,</hi> as formerly it was brought from the head of the red ſea, over land by Caravans to <hi>A<g ref="char:EOLhyphen"/>lexandria</hi> in <hi>Egypt,</hi> and ſo through the <hi>Mediterranean</hi> Sea, all <hi>Europe</hi> over by the <hi>Venetian Argocies;</hi> Would not this be a great inriching to our Commonwealth? yea, and it would be a great means to facilitate our voyages with ſpeed and ſafety to Merchants and mariners, who are ſubject to great hazard both of goods and lives in going twice under the Equinoctial line by the way of Cape <hi>de buona Eſperanza,</hi> both going and returning, and here they have a more ſpeedy and healthfull way of trading.</p>
+            <p>And not onely ſo, but it would be a great aſſurance to our fiſhing trade, upon the coaſt of <hi>Nova Scotia,</hi> and new Found land, whereby in <hi>America</hi> we might draw a great trade out of <hi>Spain</hi> and the Streights in a few years, and he incouraged and enabled by the enjoyment of the commodity of thoſe rich furs, to a fur<g ref="char:EOLhyphen"/>ther work of exalting the glory and ſcepter of Chriſt in thoſe Northern Countries of <hi>America,</hi> as far as <hi>Fretum Davies;</hi> for I believe the dwarfeiſh generation of thoſe Northern Countries, ſhall ſpeak in time the high praiſes of our God. And ſo I ſup<g ref="char:EOLhyphen"/>poſe I have anſwered all objections of my loving Countrey-men of <hi>Virginia,</hi> for whoſe ſakes principally (as to men) I was excited in my ſpirit to ſet upon this work.</p>
+            <p>I ſay, now I have anſwered all objections that I conceive can rationally be made, according to the ſmall apprehenſion the Lord hath given me, and the little experiences that I have of things.</p>
+            <p>I would now (though before in an intermixed diſcourſe) offer
+<pb n="15" facs="tcp:184964:10"/>
+to you a compendium of the profits and advantages both ſpiritual and temporall that might hereby acrew.</p>
+            <p>Firſt, as to the glorie of God, the Goſpell in her priſtine pu<g ref="char:EOLhyphen"/>ritie would ſhine ſo excellently among all the Engliſh Plantati<g ref="char:EOLhyphen"/>ons, that it would be a glorious thing to behold the change, when we ſhould ſee in each place and part of this great continent I mean from Cape <hi>Florida</hi> to <hi>Fretum Davies,</hi> not onely all the Engliſh, but the <hi>Dutch, Swedes,</hi> and the remainders of the <hi>French,</hi> exalting the praiſes of God, in their ſeverall langua<g ref="char:EOLhyphen"/>ges, tongues and ſpeeches; yea the poor Indians much advanta<g ref="char:EOLhyphen"/>ged, both thoſe that are Southerly and Northerly of new <hi>Eng<g ref="char:EOLhyphen"/>land</hi> as well as thoſe of <hi>Maſſachuſets</hi> Bay Patent (I put little difference between the Patent of the Buy and the Patent of new <hi>Plymouth,</hi> they both I hope concurring to the main end as to God-ward, and in their ſubjection to this Commonwealth) but the beauty of the Goſpell would ſhine among the <hi>Spaniards,</hi> and the Indians that converſe with them, to the Southward and Weſtward of us, who when they ſee the power of godlineſſe, the purity of religion, and the manifeſtation of the Prince of peace &amp; love, comming in the beauty of the glory of his grace to them, and compare him with the former repreſentation of him by the <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> inquiſition and tyrannie; I am exceedingly filled in my ſpirit with the apprehenſion of what I ſee a farre off (as it were) of the ſweet imbracings of Chriſt, with acclamations of joy that the poor ſeduced <hi>Spaniſh</hi> ſouls, with their abuſed ſlaves, both Ne<g ref="char:EOLhyphen"/>groes and Indians, will entertain Chriſt and the Goſpell, and how they will come flowingly in and ſubmit to the ſcepter of Chriſt, bemoaning his long abſence; would count him the chiefeſt of ten thouſands to their ſouls, and by this means the Goſpell might be communicated to the nations of <hi>Mexico, Braſil, Peru,</hi> and ſo over <hi>Fretum Magellanicum</hi> to the ends of the earth; what joy? what comfort? what happines? (yea, what a great glory would it be not only to our nation in general?) but to thoſe that love Chriſt Jeſus in ſincerity in each of their particulars. And what exceding honor would it be to him whoſe is the kingdom, the power, &amp; the glory; which I wiſh may be aſcribed to him in truth, by all Nations, now and for ever. <hi>Amen.</hi>
+            </p>
+            <closer>Soli gloria Deo.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
